@@ -1,0 +1,17 @@
+# Compilados de Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Entornos de desarrollo y editores (IDEs)
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
